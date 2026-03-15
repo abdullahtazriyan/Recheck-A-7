@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "rating": 920,
+    "hand_of_batting": "Right-handed",
+    "price": 2500000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/zhRKXv4F/426807-kohli-laughs.webp"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "rating": 890,
+    "hand_of_batting": "Right-handed",
+    "price": 2200000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/XrRhV4TZ/6422b7266abaab001eafc0c1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "rating": 910,
+    "hand_of_batting": "Right-handed",
+    "price": 2300000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/HMhh1Q3/1075-camedia.png"
+  },
+  {
+    "id": 4,
+    "name": "Joe Root",
+    "country": "England",
+    "rating": 880,
+    "hand_of_batting": "Right-handed",
+    "price": 2100000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/1Y0Y4WC8/62a7ef22-fc47-4c25-93a6-8497ac049c3b.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "rating": 870,
+    "hand_of_batting": "Right-handed",
+    "price": 2000000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/JjX0vGK6/Kane-Williamson-in-2019.jpg"
+  },
+  {
+    "id": 6,
+    "name": "David Warner",
+    "country": "Australia",
+    "rating": 860,
+    "hand_of_batting": "Left-handed",
+    "price": 1900000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/dsjMv7S5/david-warner-07-03-2022.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "rating": 850,
+    "hand_of_batting": "Right-handed",
+    "price": 2400000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/gM4z47RN/Rohit-Sharma.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "rating": 900,
+    "hand_of_batting": "Right-handed",
+    "price": 2600000,
+    "cricketer_type": "Bowler",
+    "image": "https://i.ibb.co.com/qMBZYNhL/jasprit-bumrahtdg-09-07-2024.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "rating": 910,
+    "hand_of_batting": "Right-handed",
+    "price": 2500000,
+    "cricketer_type": "Bowler",
+    "image": "https://i.ibb.co.com/M5hD5NP1/images-5.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "rating": 880,
+    "hand_of_batting": "Left-handed",
+    "price": 2200000,
+    "cricketer_type": "Bowler",
+    "image": "https://i.ibb.co.com/LdTTWnR9/images-4.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Ben Stokes",
+    "country": "England",
+    "rating": 870,
+    "hand_of_batting": "Left-handed",
+    "price": 2300000,
+    "cricketer_type": "All-rounder",
+    "image": "https://i.ibb.co.com/xqDJh8Dd/images-6.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "rating": 860,
+    "hand_of_batting": "Left-handed",
+    "price": 2100000,
+    "cricketer_type": "All-rounder",
+    "image": "https://i.ibb.co.com/Wqqn5xT/images-7.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "rating": 900,
+    "hand_of_batting": "Right-handed",
+    "price": 2200000,
+    "cricketer_type": "Bowler",
+    "image": "https://i.ibb.co.com/b5CxzbHG/hq720.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Marnus Labuschagne",
+    "country": "Australia",
+    "rating": 875,
+    "hand_of_batting": "Right-handed",
+    "price": 2000000,
+    "cricketer_type": "Batsman",
+    "image": "https://i.ibb.co.com/Zz4R07yQ/images-8.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "rating": 850,
+    "hand_of_batting": "Left-handed",
+    "price": 1950000,
+    "cricketer_type": "Wicketkeeper-Batsman",
+    "image": "https://i.ibb.co.com/5hQB0P1P/3810944-77470808-2560-1440.jpg"
+  }
+]
